@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <title>Signature</title>
+    <style>
+      table {
+        border-spacing: none;
+        border-collapse: collapse;
+        padding: 0 !important;
+      }
+      tr,
+      td {
+        border: 0 !important;
+        line-height: 0;
+        font-size: 0em;
+        padding: 0;
+      }
+      img {
+        padding: 0;
+        display: block;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="4">
+          <img src="i-01.jpg" alt="image1" />
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="4">
+          <img src="i-02.jpg" alt="image2" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="tel:+971507659443">
+            <img src="i-03.jpg" alt="image3" />
+          </a>
+        </td>
+        <td>
+          <a href="mailto:i.farah@gbt.ae">
+            <img src="i-04.jpg" alt="image4" />
+          </a>
+        </td>
+        <td rowspan="4">
+          <img src="i-05.jpg" alt="image5" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="tel:+9714259 9967">
+            <img src="i-06.jpg" alt="image6" />
+          </a>
+        </td>
+        <td>
+          <a href="https://www.gbt.ae">
+            <img src="i-07.jpg" alt="image7" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="i-08.jpg" alt="image8" />
+        </td>
+        <td>
+          <img src="i-09.jpg" alt="image9" />
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
